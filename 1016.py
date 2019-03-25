@@ -1,4 +1,7 @@
-d = int(input())
-m = d * 2
+x = 60
+y = 90
+dist = int(input())
 
-print("%d minutos" % m)
+t = dist / (y - x) * 60
+
+print("%d minutos" % t)
