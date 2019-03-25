@@ -2,4 +2,4 @@ a = int(input())
 b = int(input())
 x = a + b
 
-print("X = %d" % X)
+print("X = %d" % x)
